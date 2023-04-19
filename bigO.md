@@ -26,15 +26,15 @@ function 6 = O(n^2)
 1- True
 2- False
 3- False
-4- O(1)
-5- O(1)
+4- O(n)
+5- O(n)
 6- O(n)
 7- O(n log n)
 8- O(1)
 9- O(1)
 10- O(1)
 11- O(1)
-12- O(1)
+12- O(n)
 13- O(n)
 
 
